@@ -14,7 +14,7 @@ namespace AuthGoogleDemo.Platforms.Android
         private GoogleSignInService()
         {
             var gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DefaultSignIn)
-                .RequestIdToken("28820578575-i74avarft5ema1kgf0nobsngkuhstfj2.apps.googleusercontent.com")
+                .RequestIdToken("725286934712-nig2avdr13cl8tfi702eqmc5rk5it8udy.apps.googleusercontent.com")
                 .RequestEmail()
                 .Build();
 
