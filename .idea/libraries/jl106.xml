@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jl106">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AuthGoogleDemo/obj/Release/net8.0-android/lp/154/jl/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AuthGoogleDemo/obj/Release/net8.0-android/lp/154/jl/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
